@@ -21,5 +21,5 @@ Encadear uma série de instruções para que se poossa chegar à solução de um
 
 ![Imagem](https://user-images.githubusercontent.com/48190758/84964052-7bd66600-b0e1-11ea-9aa6-c55f01f490f4.png)
 
-https://img.shields.io/badge/L%C3%B3gica-1.0-red
+
 
